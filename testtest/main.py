@@ -8,7 +8,7 @@ else:
 
 print("Результат:", number)
 
-<<<<<<< HEAD
+
 ##test hw2 lesson 4
 
 number1 = int(input("Введите первое число: "))
@@ -23,5 +23,4 @@ else:
 
 print("Результат:", sum)
 
-=======
->>>>>>> origin/main
+
