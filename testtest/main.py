@@ -43,12 +43,16 @@ print("Результат:", nums)
 temperature = input('enter your temperature of your body NOW: ')
 temperature = float(temperature)
 
-if temperature > 36.6:
+if temperature > 36.6 or temperature < 36:
+
     print('You are now sick! ')
+
 elif temperature == temperature < 36.6:
     print('GOOD')
 else:
     print('good, your temperature is good and normal! ')
+if temperature == 40 or temperature == 39:
+    print('call to the ambulance it is the worth!!!!')
 
 
 
