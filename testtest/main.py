@@ -24,3 +24,16 @@ else:
 print("Результат:", sum)
 
 ##test hw3 lesson 4
+
+
+number1 = int(input("Введите первое число: "))
+number2 = int(input("Введите второе число: "))
+
+nums = number1 * number2
+
+if nums < 0:
+    nums *= 8
+else:
+    nums *= 1.5
+
+print("Результат:", nums)
