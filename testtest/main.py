@@ -23,4 +23,4 @@ else:
 
 print("Результат:", sum)
 
-
+##test hw3 lesson 4
