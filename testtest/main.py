@@ -37,3 +37,27 @@ else:
     nums *= 1.5
 
 print("Результат:", nums)
+
+##test hw4 lesson 4
+
+temperature = input('enter your temperature of your body NOW: ')
+temperature = float(temperature)
+
+if temperature > 36.6:
+    print('You are now sick! ')
+elif temperature == temperature < 36.6:
+    print('GOOD')
+else:
+    print('good, your temperature is good and normal! ')
+
+
+
+
+
+
+
+
+
+
+
+
